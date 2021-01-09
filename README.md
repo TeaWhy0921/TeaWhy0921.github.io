@@ -28,7 +28,7 @@ function hoge(){
     return "コードも書ける";
 }
 ```
-![地球](https://images.app.goo.gl/XUHM6CpJ7CFo7SkG7)
+![地球](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Ap_16_view_of_Earth_during_TLC.jpg/220px-Ap_16_view_of_Earth_during_TLC.jpg)
 
 *斜体*です  
 **太字**です
