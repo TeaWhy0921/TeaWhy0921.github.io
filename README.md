@@ -1,4 +1,4 @@
-# Try to the Web app
+# Try to make a Web app
 
 ## Development environment
 PC|Editor
